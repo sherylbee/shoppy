@@ -1,0 +1,35 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "node": true,
+        "jquery": true,
+        "jasmine":true
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "rules": {
+        "no-const-assign": "warn",
+        "no-this-before-super": "warn",
+        "no-undef": "warn",
+        "no-unreachable": "warn",
+        "no-unused-vars": "off",
+        "constructor-super": "warn",
+        "valid-typeof": "warn",
+        "react/react-in-jsx-scope": 0,
+        // allow jsx syntax in js files (for next.js project)
+       "react/jsx-filename-extension": [0, { "extensions": [".js", ".jsx"] }]
+    },
+    "globals": {
+        "IMWS": false,
+        "IMatch": false,
+        "IMatchTranslate": false,
+        "ol":false
+    },
+    "extends": ["plugin:react/jsx-runtime"]
+}

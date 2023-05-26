@@ -1,3 +1,8 @@
+TODO SPB: this is following a udemy course. To pick up where you left off, go here:
+https://www.udemy.com/course/build-react-development-projects/learn/lecture/34220988#content
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Assets:
+<a href="https://iconscout.com/illustrations/add-to-cart" target="_blank">Add to cart Illustration</a> by <a href="https://iconscout.com/contributors/posse-studio" target="_blank">Studio Posse</a>
+<a href="https://iconscout.com/illustrations/girl" target="_blank">Girl doing online shopping Illustration</a> by <a href="https://iconscout.com/contributors/posse-studio" target="_blank">Studio Posse</a>
+<a href="https://iconscout.com/illustrations/buy" target="_blank">Buy one get one free shopping offer Illustration</a> by <a href="https://iconscout.com/contributors/posse-studio">Studio Posse</a> on <a href="https://iconscout.com">IconScout</a>

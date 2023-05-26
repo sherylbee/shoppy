@@ -1,0 +1,20 @@
+.checkout-wrapper{
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.checkout-column {
+    display: flex;
+    height: 100vh;
+    flex-basis: 30%;
+}
+
+.checkout-cart-contents{
+    flex-basis: 100%;
+    background-color: blue;
+}
+
+.checkout-cart-summary{
+    background-color: green;
+}
+
